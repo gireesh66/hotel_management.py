@@ -1,0 +1,1 @@
+his is a Hotel Management System project built to manage hotel operations like room booking, customer details, check-in/check-out, and billing. The goal of this project is to simplify hotel administrative tasks using a clean and user-friendly system.
